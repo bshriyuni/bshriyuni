@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, Besse Sahriyuni 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Besse Sahriyuni 👨‍💻
 
 I am an Information Systems student with a strong interest in web development, especially Front End and UI/UX
 
@@ -32,7 +32,7 @@ I am an Information Systems student with a strong interest in web development, e
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/bshriyuni">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bshriyuni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bshriyuni&layout=compact&langs_count=8&theme=algolia"/>
